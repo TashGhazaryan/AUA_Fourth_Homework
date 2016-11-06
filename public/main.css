@@ -1,0 +1,14 @@
+body {
+    background-color: #F6F6F6;
+}
+.header {
+    margin-bottom: 150px;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 50px;
+    font-weight:bold;
+}
+.main {
+    border: 1px solid black;
+    border-radius:15% ;
+    background-color: white;
+}
